@@ -1,0 +1,11 @@
+/* css/opera.css */
+:root{
+--forest-green: rgb(37, 150, 37);
+
+}
+/* css/opera.css */
+
+/* Set linear gradient background for scrollbar thumb */
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(var(--forest-green),green);
+}
